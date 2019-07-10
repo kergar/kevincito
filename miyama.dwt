@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>miyama</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="estilomiyama.css" rel="stylesheet" type="text/css">
+<body>
+    <section id="contenedor">
+        <header>
+            <img src="../imagen/miyama.jpg" alt="miyama" id="logo">
+            <h2>inicio</h2>
+        </header>
+
+        <nav>
+            <ul id="menu">
+            <li><a href="../miyamaeditable.html">nuestra historia</a></li>
+            <li><a href="../comentarios-miyama.html">comentarios</a></li>
+            <li><a href="../articulos-miyama.html">articulos</a></li>
+            <li><a href="../eventos-miyama.html">eventos especiales</a></li>
+            <li><a href="#">menu</a></li>
+            <li><a href="../ubicacion-miyama.html">ubicacion</a></li>
+            <li><a href="../contactos-miyama.html">contactanos</a></li>
+        </ul>
+        </nav>
+
+        <section id="documento">
+			<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+        </section>
+
+        <footer>
+	        <h4>todos los derechos reservados</h4>
+        </footer>
+    </section>
+</body>
+</html>
